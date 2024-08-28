@@ -21,6 +21,6 @@ export class AddBlogpostComponent {
     }
   }
   onFormSubmit() {
-    console.log(this.model);
+    
   }
 }
